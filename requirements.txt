@@ -1,0 +1,3 @@
+# Na AWS Lambda o boto3 já faz parte do runtime nativo.
+# Listado aqui para reprodutibilidade e execução/testes em ambiente local.
+boto3>=1.34.0
